@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKYHH&theme=codeSTACKr&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKYHH&layout=compact)](https://github.com/KKYHH/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKYHH)](https://github.com/KKYHH/github-readme-stats)
