@@ -5,7 +5,8 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="25" height="25" /></h2> <br> 
       <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Envelope" width="25" height="25" /> kyhcraft@gmail.com</div> <br>
-    <div style="text-align: left;"> <a href=https://velog.io/@kyhh/> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kyhh/"> </a>
+    <div style="text-align: left;"> <a href=https://velog.io/@kyhh/> <img src="https://img.shields.io/badge/Velog-000000?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kyhh/"> </a>
+    <div style="text-align: left;"> <a href=https://www.instagram.com/kyhh__/> <img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kyhh__/"> </a>
           </div>  <br> 
     <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKKYHH%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
@@ -17,9 +18,10 @@
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
+          <img src="https://img.shields.io/badge/R3F-000000?style=flat-square&logo=threedotjs&logoColor=white">
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
           <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white">
           <img src="https://img.shields.io/badge/StyleX-0467DF?style=flat-square&logo=Meta&logoColor=white">
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
           <br/></div>
     </div>
