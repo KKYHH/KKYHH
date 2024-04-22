@@ -46,5 +46,5 @@
     <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=KKYHH&theme=graywhite&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKYHH&layout=compact&theme=graywhite" />
-<a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/farms/{KKYHH}"/></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKYHH&layout=compact&theme=graywhite" width="354" />
+<a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/farms/{KKYHH}" width="468"/></a>
