@@ -6,7 +6,8 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="25" height="25" /></h2> <br> 
       <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Envelope" width="25" height="25" /> kyhcraft@gmail.com</div> <br>
     <div style="text-align: left;">
-        <a href=https://velog.io/@kyhh/><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=githubpages&logoColor=white&link=https://kkyhh.github.io/"></a><div style="text-align: left;"><a href=https://www.instagram.com/kyhh__/><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/kyhh__/"></a></div>
+        <a href=https://kkyhh.github.io/><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=githubpages&logoColor=white&link=https://kkyhh.github.io/"></a>
+        <div style="text-align: left;"><a href=https://www.instagram.com/kyhh__/><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/kyhh__/"></a></div>
         <br> 
     <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKKYHH%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
