@@ -1,14 +1,12 @@
 <div style="text-align: left;"> 
-    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;">안녕하세요, 저는 김용호입니다. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="50" height="50" /></h1>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 감각적인 인터페이스를 지향합니다</li><li>지식의 폭을 넓히는 것에 즐거움을 느낍니다</li><li> 성장할 수 있는 환경을 선호합니다</li><li>사용자 중심의 프론트엔드 개발을 위해 3D 오브젝트와 AI 기술에 관심이 많습니다</li>  </div> 
+    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;">👀 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="50" height="50" /></h1>  
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="25" height="25" /></h2> <br> 
+    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="25" height="25" /></h3>
       <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Envelope" width="25" height="25" /> kyhcraft@gmail.com</div> <br>
     <div style="text-align: left;">
         <a href=https://kkyhh.github.io/><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=githubpages&logoColor=white&link=https://kkyhh.github.io/"></a>
         <div style="text-align: left;"><a href=https://www.instagram.com/kyhh__/><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/kyhh__/"></a></div>
-        <br> 
     <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKKYHH%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
     </div> <br>
